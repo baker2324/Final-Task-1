@@ -1,0 +1,33 @@
+Department,Ethnicity,max_age,min_age,median_salary
+Accounting,Asian,68.0,29.0,114893.0
+Accounting,Black,55.0,34.0,91853.0
+Accounting,Caucasian,66.0,30.0,121159.5
+Accounting,Latino,66.0,30.0,92317.0
+Design,African,29.0,29.0,2000.0
+DevOps,Asian,26.0,26.0,2100.0
+Engineering,Asian,69.0,29.0,91230.0
+Engineering,Black,60.0,31.0,74412.0
+Engineering,Caucasian,68.0,29.0,95639.0
+Engineering,Latino,68.0,31.0,96818.0
+Engineering,Middle Eastern,27.0,27.0,2200.0
+Finance,Asian,68.0,29.0,125730.0
+Finance,Black,69.0,29.0,131652.0
+Finance,Caucasian,68.0,29.0,98946.0
+Finance,Latino,69.0,29.0,122829.0
+Human Resources,Asian,68.0,29.0,125871.5
+Human Resources,Black,59.0,29.0,142318.0
+Human Resources,Caucasian,68.0,30.0,104162.0
+Human Resources,Latino,69.0,33.0,101985.0
+IT,Asian,69.0,24.0,89494.0
+IT,Black,65.0,32.0,73317.0
+IT,Caucasian,69.0,30.0,81069.5
+IT,Latino,68.0,29.0,83403.0
+IT,Middle Eastern,31.0,31.0,1800.0
+Marketing,Asian,69.0,29.0,147752.0
+Marketing,Black,69.0,31.0,86075.5
+Marketing,Caucasian,69.0,29.0,113135.0
+Marketing,Latino,69.0,33.0,97063.5
+Sales,Asian,68.0,29.0,89528.5
+Sales,Black,69.0,30.0,94246.0
+Sales,Caucasian,67.0,30.0,96092.0
+Sales,Latino,65.0,30.0,113269.0
